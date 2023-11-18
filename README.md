@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cozypet
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning life
-- 💞️ I’m looking to collaborate on humanity
+- 👀 Solution Architect at MongoDB
+- 🌱 Strong interest in Machine Learning and AI
+
 
 
 <!---
