@@ -1,6 +1,6 @@
 👋 Hi, I’m Han Heloir
 
-I’m a Generative AI Solutions Architect at MongoDB, specializing in AI-driven applications, data architecture, and retrieval-augmented generation (RAG). With 15+ years of experience across finance, retail, manufacturing, and telecom, I help organizations design scalable AI solutions that leverage MongoDB’s converged data and AI layer.
+I’m a Generative AI Solutions Architect, specializing in AI-driven applications, data architecture, and retrieval-augmented generation (RAG). With 15+ years of experience across finance, retail, manufacturing, and telecom, I help organizations design scalable AI solutions that leverage MongoDB’s converged data and AI layer.
 
 🔹 Exploring the intersection of AI, vector search, and knowledge retrieval
 🔹 Passionate about real-time AI applications and system integration
